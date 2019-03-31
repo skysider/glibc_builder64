@@ -24,4 +24,4 @@ RUN apt-get remove -y \
     gawk \
     libgetopt-argvfile-perl \
     bison && \
-    apt-get autoremove
+    apt autoremove -y
