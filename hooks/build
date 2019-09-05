@@ -1,0 +1,2 @@
+#!/bin/bash 
+docker build --build-arg GLIBC_VERSION=$GLIBC_VERSION -t $IMAGE_NAME .
