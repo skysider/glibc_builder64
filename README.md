@@ -18,6 +18,8 @@ compiled libc.so is located in `/glibc/${glibc_version}/64/lib/` .
 - 2.27
 - 2.28
 - 2.29
+- 2.30
+- 2.31
 
 besides, you can also build your own glibc version with following command:
 
